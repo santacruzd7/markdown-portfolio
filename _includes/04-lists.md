@@ -1,4 +1,4 @@
 # list of favourite foods
-* Pizza
-* Pasta
-* Paella
+- Pizza
+- Pasta
+- Paella
